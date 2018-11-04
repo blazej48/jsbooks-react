@@ -1,0 +1,19 @@
+.title {
+    height: 3rem;
+    position: relative;
+    border: 4rem;
+}
+
+.title__square {
+    background-color: #F5D764;
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    z-index: 0;
+}
+
+.title__text {
+    margin-left: 1rem;
+    position: absolute;
+    bottom: -0.3rem;
+}
